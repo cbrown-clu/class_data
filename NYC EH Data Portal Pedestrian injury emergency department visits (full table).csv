@@ -1,0 +1,66 @@
+TimePeriod,GeoType,GeoID,GeoRank,Geography,"Age-adjusted rate per 100,000",Number
+2016,CD,101,6,Financial District (CD1),63.0,40
+2016,CD,102,6,Greenwich Village and Soho (CD2),36.9,39
+2016,CD,103,6,Lower East Side and Chinatown (CD3),61.6,101
+2016,CD,104,6,Clinton and Chelsea (CD4),51.7,74
+2016,CD,105,6,Midtown (CD5),61.4,37
+2016,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),69.8,102
+2016,CD,107,6,Upper West Side (CD7),41.7,86
+2016,CD,108,6,Upper East Side (CD8),62.1,140
+2016,CD,109,6,Morningside Heights and Hamilton Heights (CD9),56.3,62
+2016,CD,110,6,Central Harlem (CD10),70.2,82
+2016,CD,111,6,East Harlem (CD11),123.8,154
+2016,CD,112,6,Washington Heights and Inwood (CD12),66.4,134
+2016,CD,201,6,Mott Haven and Melrose (CD1),114.5,112
+2016,CD,202,6,Hunts Point and Longwood (CD2),101.7,58
+2016,CD,203,6,Morrisania and Crotona (CD3),108.9,97
+2016,CD,204,6,Highbridge and Concourse (CD4),73.8,115
+2016,CD,205,6,Fordham and University Heights (CD5),89.4,121
+2016,CD,206,6,Belmont and East Tremont (CD6),113.0,98
+2016,CD,207,6,Kingsbridge Heights and Bedford (CD7),83.9,127
+2016,CD,208,6,Riverdale and Fieldston (CD8),70.4,73
+2016,CD,209,6,Parkchester and Soundview (CD9),86.3,158
+2016,CD,210,6,Throgs Neck and Co-op City (CD10),56.7,70
+2016,CD,211,6,Morris Park and Bronxdale (CD11),76.1,88
+2016,CD,212,6,Williamsbridge and Baychester (CD12),95.6,147
+2016,CD,301,6,Greenpoint and Williamsburg (CD1),54.2,103
+2016,CD,302,6,Fort Greene and Brooklyn Heights (CD2),58.5,70
+2016,CD,303,6,Bedford Stuyvesant (CD3),115.4,175
+2016,CD,304,6,Bushwick (CD4),84.1,97
+2016,CD,305,6,East New York and Starrett City (CD5),139.8,251
+2016,CD,306,6,Park Slope and Carroll Gardens (CD6),73.3,75
+2016,CD,307,6,Sunset Park (CD7),98.1,128
+2016,CD,308,6,Crown Heights and Prospect Heights (CD8),102.8,100
+2016,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),92.8,91
+2016,CD,310,6,Bay Ridge and Dyker Heights (CD10),76.1,105
+2016,CD,311,6,Bensonhurst (CD11),85.4,172
+2016,CD,312,6,Borough Park (CD12),94.3,187
+2016,CD,313,6,Coney Island (CD13),137.4,135
+2016,CD,314,6,Flatbush and Midwood (CD14),103.2,169
+2016,CD,315,6,Sheepshead Bay (CD15),87.6,149
+2016,CD,316,6,Brownsville (CD16),159.3,134
+2016,CD,317,6,East Flatbush (CD17),96.0,143
+2016,CD,318,6,Flatlands and Canarsie (CD18),80.9,154
+2016,CD,401,6,Long Island City and Astoria (CD1),109.1,213
+2016,CD,402,6,Woodside and Sunnyside (CD2),77.4,113
+2016,CD,403,6,Jackson Heights (CD3),96.0,172
+2016,CD,404,6,Elmhurst and Corona (CD4),112.4,211
+2016,CD,405,6,Ridgewood and Maspeth (CD5),96.6,156
+2016,CD,406,6,Rego Park and Forest Hills (CD6),68.0,73
+2016,CD,407,6,Flushing and Whitestone (CD7),99.6,254
+2016,CD,408,6,Hillcrest and Fresh Meadows (CD8),72.3,109
+2016,CD,409,6,Kew Gardens and Woodhaven (CD9),115.9,169
+2016,CD,410,6,South Ozone Park and Howard Beach (CD10),117.0,144
+2016,CD,411,6,Bayside and Little Neck (CD11),40.6,45
+2016,CD,412,6,Jamaica and Hollis (CD12),124.6,288
+2016,CD,413,6,Queens Village (CD13),75.9,133
+2016,CD,414,6,Rockaway and Broad Channel (CD14),86.3,95
+2016,CD,501,6,St. George and Stapleton (CD1),108.8,192
+2016,CD,502,6,South Beach and Willowbrook (CD2),74.5,96
+2016,CD,503,6,Tottenville and Great Kills (CD3),60.7,95
+2016,Borough,1,1,Bronx,91.4,"1,336"
+2016,Borough,2,1,Brooklyn,96.7,"2,519"
+2016,Borough,3,1,Manhattan,65.1,"1,092"
+2016,Borough,4,1,Queens,98.0,"2,241"
+2016,Borough,5,1,Staten Island,85.7,392
+2016,Citywide,1,0,New York City,95.1,"8,079"
