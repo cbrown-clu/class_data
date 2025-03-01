@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Paris Bakeries</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>pastries</name>
+      <Placemark>
+        <name>Notre Pâtisserie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3075669,48.8591504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Odette</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3465234,48.8520516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie La Parisienne</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3315535,48.8482446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gem la Pâtisserie Paris</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3372243,48.8705315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les Gourmandises de Saint Honoré</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3416849,48.8615309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haute Pâtisserie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3791007,48.8561124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The French Bastards</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.2878541,48.8777322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Moulin de Rosa - Laurent Watrin</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.364594,48.8571321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Moulin de la Vierge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3085807,48.8598585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maison Lucie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.305095,48.8730522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie La Parisienne</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3314271,48.8482096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petite Île Boulangerie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3655368,48.8623212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie Pâtisserie Miche de Pain</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.34444,48.8764661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La tordue bakery</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3994771,48.8638584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie du Parc Neuilly Sur Seine</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.2774521,48.8830783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Griotte Boulangerie Patisserie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.2859919,48.8814746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie, Artisan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3802391,48.8664759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie-Pâtisserie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3754918,48.871447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mozart</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.279184,48.837021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boulangerie</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.4636709,48.8771958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baker and Pastries</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3731091,48.8873273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bakery</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3703677,48.936559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boucherie Baker ADRAR</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.2137445,48.9267129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clove Bakery</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3474173,48.8655304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Adria's bakery]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3902481,48.8443842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lam</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3600179,48.867308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gast</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3449668,48.8588533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atelier Guinot Baker</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.3774903,48.8621231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sweet Lab</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.2478999,48.8971251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sarah Baker</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.2797033,48.779002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
